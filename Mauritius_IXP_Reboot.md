@@ -2,7 +2,7 @@
 
 # Mauritius IXP Reboot
 
-Authors: **Daniel Shaw**  
+Authors: **Daniel Shaw** \<[<daniel@mixp.org>](mailto:daniel@mixp.org)\>  
 Tags: `IXP`, `Mauritius`, `peering`
 
 Much like the island country where it is situated, the Mauritius Internet Exchange Point (MIXP) is relatively small. We have ten unique organisations or operators participating, with a total of twelve (13)  peering ASNs. (One ASNs is the MIXP’s management network itself, that provides the web site, statistics and so on).
